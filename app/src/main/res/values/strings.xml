@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="hello">Hello World, autoComplete!</string>
+    <string name="app_name">Membuat Teks Autocomplete</string>
+    <string name="perintah">Masukan minimal 3huruf!</string>
+    <string name="hello1">Hello World, kotak dialog!</string>
+    <string name="app_name1">Membuat Kotak Dialog</string>
+    <string name="toastTextBtn">Panggilan Toast</string>
+    <string name="exitTextBtn">Keluar Aplikasi</string>
+    <string name="listDialogTextBtn">Panggilan List</string>
+    <string name="hello2">Hello Word,checkbox!</string>
+    <string name="app_name2">Membuat Check Box</string>
+    <string name="checkBox">checkBox ini : Tidak Dicentang!</string>
+    <string name="hello3">Service Sederhana!</string>
+    <string name="app_name3">Service Background Sederhana</string>
+    <string name="startBtn">Start</string>
+    <string name="stopBtn">Stop</string>
+
+
+</resources>

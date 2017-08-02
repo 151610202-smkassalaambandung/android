@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="assalaam.relativelayoutsederhana.id.relativelayoutsederhana">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Hello"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RelativeLayoutSederhana" />
+        <activity android:name=".LayoutTabel" />
+        <activity android:name=".GambarAndroid" />
+        <activity android:name=".LinearLayoutSederhana" />
+        <activity android:name=".KotakDialog" />
+        <activity android:name=".AutocompleteSederhana" />
+        <activity
+            android:name=".home"
+            android:label="Selamat Datang">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".seleksi" />
+        <activity android:name=".RadioButton" />
+        <activity android:name=".picker" />
+        <activity android:name=".checkBox" />
+        <activity android:name=".ServiceSederhana" />
+        <activity android:name=".playingaudio" />
+        <activity android:name=".memanggilactivity" />
+        <activity android:name=".main2"></activity>
+    </application>
+
+</manifest>
